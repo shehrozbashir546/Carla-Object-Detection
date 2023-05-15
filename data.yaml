@@ -1,0 +1,5 @@
+train: X:\Installs\Yolov5\carla\train\images
+val: X:\Installs\Yolov5\carla\valid\images
+
+nc: 5
+names: ['bike', 'motobike', 'traffic_light', 'traffic_sign', 'vehicle']

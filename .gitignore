@@ -1,0 +1,6 @@
+# Auto detect text files and perform LF normalization
+best.pt
+best.torchscript
+onnxtest2.onnx
+anothertry.py
+
