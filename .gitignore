@@ -4,3 +4,6 @@ best.torchscript
 onnxtest2.onnx
 anothertry.py
 best.onnx
+experimental.py
+manual_control.py
+TESTING_MANUAL.PY
