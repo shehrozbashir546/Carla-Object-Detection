@@ -8,7 +8,7 @@ Running Object Detection Algorithms inside CARLA.
 YOLOv5, YOLOv7 and YOLOv8 are trained and used for real time inference inside CARLA.
 
 
-Jupyter contains the notebooks used in this implementation
+Jupyter contains the notebooks used in this implementation. Src file contains the same code but added in case jupyter isnt one's cup of tea. 
 
 For YOLOv5, OpenCV DNN is used to load the weights
 
