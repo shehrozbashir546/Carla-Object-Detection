@@ -3,7 +3,11 @@
 Bachelor Thesis - Hochschule Hamm Lippstadt - Bachelors in Electronic Engineering
 
 Running Object Detection Algorithms inside CARLA. 
-YOLOv5, YOLOv7 and YOLOv8 are trained and used for real time inference inside CARLA
+
+
+YOLOv5, YOLOv7 and YOLOv8 are trained and used for real time inference inside CARLA.
+
+
 Jupyter contains the notebooks used in this implementation
 
 For YOLOv5, OpenCV DNN is used to load the weights
